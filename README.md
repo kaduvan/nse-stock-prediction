@@ -1,2 +1,2 @@
 # nse-stock-prediction
-utomated NSE stock prediction using ML
+Automated NSE stock prediction using ML
